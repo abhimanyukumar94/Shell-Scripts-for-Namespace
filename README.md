@@ -1,4 +1,4 @@
-# Shell-Scripts-for-Namespace
+# Shell Scripts for Networking Namespace
 Namespace scripts used for Introduction to Networking Namespaces demo
 
 # Description
