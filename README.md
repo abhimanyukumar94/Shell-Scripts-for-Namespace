@@ -9,4 +9,4 @@ Namespace scripts used for Introduction to Networking Namespaces demo
 
 3. NS3.sh - 3 NS will be configured in series: NS1—NS2—NS3. Result is NS behaving as routers.
 
-Comments have been provided in the scripts for each step for lucidity.
+Comments have been provided for each step inside the scripts for lucidity.
